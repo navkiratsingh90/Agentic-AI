@@ -1,0 +1,69 @@
+# Core AI Frameworks
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-openai
+
+# LLM Providers
+langchain-anthropic
+langchain-google-genai
+langchain-groq
+
+# Agent Tools and Integrations
+langchain-tavily
+tavily-python
+httpx
+requests
+
+# RAG and Vector Databases
+langchain-chroma
+chromadb
+faiss-cpu
+
+# Embeddings
+sentence-transformers
+transformers
+torch
+
+# Document Processing
+pypdf
+unstructured
+beautifulsoup4
+python-docx
+
+# API and Backend
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# Environment Variables and Configuration
+python-dotenv
+pyyaml
+
+# Database
+sqlalchemy
+psycopg2-binary
+pymongo
+redis
+
+# Authentication and Security
+python-jose[cryptography]
+passlib[bcrypt]
+cryptography
+
+# Async and Utilities
+aiohttp
+tenacity
+python-dateutil
+
+# Monitoring and Observability
+langsmith
+loguru
+
+# Development and Testing
+pytest
+pytest-asyncio
+black
+ruff
