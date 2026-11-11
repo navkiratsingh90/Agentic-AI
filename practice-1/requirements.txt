@@ -67,3 +67,5 @@ pytest
 pytest-asyncio
 black
 ruff
+
+streamlit
